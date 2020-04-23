@@ -33,6 +33,10 @@ class App extends React.Component {
                         <span>GIVE ME ADVICE!</span>
                     </button>
                 </div>
+
+                <div className = 'github'>
+                        <span><a href = 'https://github.com/MdRashid62/advice-project'> Source Code</a></span>
+                    </div>
             </div>
         )
     }

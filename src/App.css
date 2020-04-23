@@ -22,7 +22,7 @@ body {
 .card {
   background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
   width: 40%;
-  height: 20%;
+  height: 30%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -53,11 +53,11 @@ body {
     width: 210px;
     opacity: 1;
     background-color: #ffffff;
-    border: 1px solid rgba(22, 76, 167, 0.6);
+    border: 1px solid rgba(22, 167, 41, 0.856);
   }
 
   .button span {
-    color: #164ca7;
+    color: #22a716;
     font-size: 12px;
     font-weight: 500;
     letter-spacing: 0.7px;
@@ -90,6 +90,7 @@ body {
     }
   }
 
+
   @keyframes storm {
     0% {
       transform: translate3d(0, 0, 0) translateZ(0);
@@ -106,6 +107,13 @@ body {
     100% {
       transform: translate3d(0, 0, 0) translateZ(0);
     }
+  }
+
+  .github span a {
+    margin: 10%;
+    text-decoration: none;
+    position: absolute;
+    display: flex;
   }
 
   @media only screen and (max-width: 600px) {
