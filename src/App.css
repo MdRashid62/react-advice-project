@@ -20,8 +20,7 @@ body {
 }
 
 .card {
-  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
-  width: 40%;
+  background-image: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);  width: 40%;
   height: 30%;
   display: flex;
   justify-content: center;
