@@ -1,4 +1,4 @@
-This project was bo with [Create React App](https://github.com/facebook/create-react-app).
+This project was boo with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
