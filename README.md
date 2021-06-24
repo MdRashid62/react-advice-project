@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the Project directory, you can run:0
+In the Project directory, you can run:
 
 ### `yarn start`
 
